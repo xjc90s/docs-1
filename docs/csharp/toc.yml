@@ -1,10 +1,10 @@
 items:
 - name: C# documentation
-  href: index.yml
+  href: tour-of-csharp/index.yml
 - name: Get started
   items:
   - name: Tour of C#
-    href: tour-of-csharp/index.md
+    href: tour-of-csharp/overview.md
   - name: Learn C# for Java developers
     href: tour-of-csharp/tips-for-java-developers.md
   - name: Learn C# for JavaScript developers
@@ -149,6 +149,8 @@ items:
   - name: C# 13
     displayName: what's New
     href: whats-new/csharp-13.md
+  - name: Breaking changes in C# 13
+    href: ../../_roslyn/docs/compilers/CSharp/Compiler%20Breaking%20Changes%20-%20DotNet%209.md
   - name: C# 12
     displayName: what's New
     href: whats-new/csharp-12.md
